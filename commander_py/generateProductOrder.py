@@ -5,7 +5,7 @@
 #   Also contains errorhandling for incorrect inputs
 #   -------------------------------------------------------------------------------
 #   Author: Sebastian Brink
-#   Kandidatarbete COBOTS
+#   Kandidatarbete COBOTS 2019
 #   V.1.0.0
 #   -------------------------------------------------------------------------------
 

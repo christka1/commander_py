@@ -26,8 +26,7 @@ setup(
         'Topic :: Software Development',
     ],
     description=(
-        'Python nodes which were previously in the ros2/examples repository '
-        'but are now just used for demo purposes.'
+        'Package copied from demo examples.'
     ),
     license='Apache License, Version 2.0',
     tests_require=['pytest'],
